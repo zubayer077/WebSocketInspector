@@ -1,0 +1,17 @@
+{
+  "title": "WebSocket Inspector",
+  "name": "inspector",
+  "version": "0.0.1",
+  "description": "to inspect WebSocket connection",
+  "main": "index.js",
+  "author": "H.M.",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "permissions": {"private-browsing": true, "multiprocess": true},
+  "keywords": [
+    "jetpack"
+  ]
+}
